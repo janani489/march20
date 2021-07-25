@@ -7,8 +7,10 @@ public class Sector {
 	public static void main(String[] args) {
 		System.out.println("java");
 
-		List<String> s = new LinkedList<>();
-		s.add("valli");
+		String s = "testng";
+		System.out.println(s.length());
+		List<String> s1 = new LinkedList<>();
+		s1.add("valli");
 
 	}
 }
